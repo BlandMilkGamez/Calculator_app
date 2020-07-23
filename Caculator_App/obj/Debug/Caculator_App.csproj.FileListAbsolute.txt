@@ -1,0 +1,10 @@
+C:\Users\omari\source\repos\Caculator_App\Caculator_App\bin\Debug\Caculator_App.exe.config
+C:\Users\omari\source\repos\Caculator_App\Caculator_App\bin\Debug\Caculator_App.exe
+C:\Users\omari\source\repos\Caculator_App\Caculator_App\bin\Debug\Caculator_App.pdb
+C:\Users\omari\source\repos\Caculator_App\Caculator_App\obj\Debug\Caculator_App.csprojAssemblyReference.cache
+C:\Users\omari\source\repos\Caculator_App\Caculator_App\obj\Debug\Caculator_App.Form1.resources
+C:\Users\omari\source\repos\Caculator_App\Caculator_App\obj\Debug\Caculator_App.Properties.Resources.resources
+C:\Users\omari\source\repos\Caculator_App\Caculator_App\obj\Debug\Caculator_App.csproj.GenerateResource.cache
+C:\Users\omari\source\repos\Caculator_App\Caculator_App\obj\Debug\Caculator_App.csproj.CoreCompileInputs.cache
+C:\Users\omari\source\repos\Caculator_App\Caculator_App\obj\Debug\Caculator_App.exe
+C:\Users\omari\source\repos\Caculator_App\Caculator_App\obj\Debug\Caculator_App.pdb
